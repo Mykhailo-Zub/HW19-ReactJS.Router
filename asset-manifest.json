@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/HW19-ReactJS.Router/static/css/main.81c7e5d1.chunk.css",
+    "main.js": "/HW19-ReactJS.Router/static/js/main.8524ab22.chunk.js",
+    "main.js.map": "/HW19-ReactJS.Router/static/js/main.8524ab22.chunk.js.map",
+    "runtime-main.js": "/HW19-ReactJS.Router/static/js/runtime-main.6932c82d.js",
+    "runtime-main.js.map": "/HW19-ReactJS.Router/static/js/runtime-main.6932c82d.js.map",
+    "static/js/2.73934e1f.chunk.js": "/HW19-ReactJS.Router/static/js/2.73934e1f.chunk.js",
+    "static/js/2.73934e1f.chunk.js.map": "/HW19-ReactJS.Router/static/js/2.73934e1f.chunk.js.map",
+    "index.html": "/HW19-ReactJS.Router/index.html",
+    "precache-manifest.13d5a5e5433a4b02b91826b0c6ba14cf.js": "/HW19-ReactJS.Router/precache-manifest.13d5a5e5433a4b02b91826b0c6ba14cf.js",
+    "service-worker.js": "/HW19-ReactJS.Router/service-worker.js",
+    "static/css/main.81c7e5d1.chunk.css.map": "/HW19-ReactJS.Router/static/css/main.81c7e5d1.chunk.css.map",
+    "static/js/2.73934e1f.chunk.js.LICENSE.txt": "/HW19-ReactJS.Router/static/js/2.73934e1f.chunk.js.LICENSE.txt",
+    "static/media/comment.svg": "/HW19-ReactJS.Router/static/media/comment.0002e5f6.svg",
+    "static/media/confirm.svg": "/HW19-ReactJS.Router/static/media/confirm.39726703.svg",
+    "static/media/down-arrow.svg": "/HW19-ReactJS.Router/static/media/down-arrow.da333812.svg",
+    "static/media/female.svg": "/HW19-ReactJS.Router/static/media/female.5c87994c.svg",
+    "static/media/like.svg": "/HW19-ReactJS.Router/static/media/like.12220a22.svg",
+    "static/media/main.jpg": "/HW19-ReactJS.Router/static/media/main.2c4b5bdb.jpg",
+    "static/media/male.svg": "/HW19-ReactJS.Router/static/media/male.07582995.svg",
+    "static/media/share.svg": "/HW19-ReactJS.Router/static/media/share.444db246.svg",
+    "static/media/unknown.svg": "/HW19-ReactJS.Router/static/media/unknown.2508df20.svg",
+    "static/media/upload.svg": "/HW19-ReactJS.Router/static/media/upload.8f047106.svg",
+    "static/media/user.svg": "/HW19-ReactJS.Router/static/media/user.e7875f01.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6932c82d.js",
+    "static/js/2.73934e1f.chunk.js",
+    "static/css/main.81c7e5d1.chunk.css",
+    "static/js/main.8524ab22.chunk.js"
+  ]
+}
